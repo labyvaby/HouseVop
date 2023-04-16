@@ -1,0 +1,51 @@
+.header{
+    width: 100%;
+    top: 30px;
+    background: url(./png/Rectangle.png);
+    background-size: cover;
+    background-position: center;
+}
+.header__content{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.header__list{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 170px;
+}
+.hero__right{
+    display: flex;
+    margin: 30px;
+}
+.hero__left{
+    display: flex;
+    margin: 30px;
+}
+.hero__bottom--logo{
+    margin: 15px;
+}
+.hero__title{
+    font-size: 48px;
+    color:#d4c17f;
+    width: 700px;
+    max-width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Playfair Display';
+    margin-top: 225px;
+}
+.mouse{
+    margin: 0 auto;
+    margin-top: 100px;
+    display: flex;
+    margin-bottom: 200px;
+}
+.hero__bottom{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family: 'Raleway';
+    font-size: 18px;
+}

@@ -1,0 +1,55 @@
+.demo{
+    margin-top: 180px;
+    background: url(./png/phon__two.png);
+    background-size: cover;
+    background-position: center;
+}
+.demo__title{
+    color: #D4C17F;
+    font-size: 36px;
+    font-family: 'Playfair Display';
+    margin: 0;
+}
+.forms{
+    display: flex;
+    margin-top: 50px;
+}
+.forms__info{
+    width: 970px;
+    font-size: 16px;
+    font-family: 'Raleway'
+}
+.demo__right{
+    margin-right: 45px;
+    margin-left: 35px;
+}
+.forms__demo{
+    width: 255px;
+    height: 50px;
+    margin-bottom: 30px;
+    background: #fff;
+    opacity: 0.2;
+    border-style: none;
+    color: gray;
+    text-align: center;
+}
+.warning{
+    width: 255px;
+    height: 28px;
+    font-size: 13px;
+    text-align: center;
+    font-family: 'Raleway';
+}
+.forms__button{
+    width: 263px;
+    height: 53px;
+    background: #D4C17F;
+    color: #fff;
+    font-family: 'Raleway';
+    border: none;
+}
+.forms__button:hover{
+    background: #fff;
+    color: #000;
+    transition: 0.3s;
+}

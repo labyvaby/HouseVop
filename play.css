@@ -1,0 +1,13 @@
+.play{
+    margin-top: 180px;
+}
+.play__music{
+    height: 650px;
+    width: 719px;
+    background: gray;
+}
+.play__content{
+
+    display: flex;
+    justify-content: center;
+}

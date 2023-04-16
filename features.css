@@ -1,0 +1,25 @@
+.features{
+    margin-top: 200px;
+}
+.features__content{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: 'Roboto';
+    margin-left: 156px;
+    margin-right: 136px;
+}
+.features__info{
+    width: 193px;
+    font-size: 16px;
+    text-align: center;
+    margin-left: -50px;
+    margin-top: 50px;
+}
+.features__bicycle{
+    width: 124px;
+    text-align: center;
+    margin-left: -18px;
+    margin-top: 50px;
+
+}
